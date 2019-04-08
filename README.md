@@ -23,6 +23,8 @@ If we were to expand on this idea, we would need more images for each hand gestu
 ### Video
 - [link](https://youtu.be/zgxMGaI28I4)
 
+---
 #### Notes:
-##### This was written using Python 3.6.7.
-##### You need to have a camera installed in order for the script to properly execute.
+- ##### This was written using Python 3.6.7.
+- ##### You need to have a camera installed in order for the script to properly execute.
+- ##### Use the YOLO weights and cfg files that are included to run the ```real-time.py``` script.
