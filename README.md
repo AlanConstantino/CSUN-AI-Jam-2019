@@ -1,4 +1,4 @@
-# [CSUN-AI-Jam-2019](https://youtu.be/zgxMGaI28I4)
+# [CSUN-AI-Jam-2019](https://www.csun.edu/it/ai-jam)
 We used a deep learning convolutional neural network to train a model to recognize A.S.L. hand gestures in real-time.
 
 Our original idea was to have a mobile application that you can download on your phone to translate A.S.L. hand gestures in real-time. So far, we have only trained our model to recognize A.S.L. letters. 
